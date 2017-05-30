@@ -1,2 +1,5 @@
-# images
-This is our images repo
+# Images repo
+
+* Please only submit images as issues to this repo
+* Close the issue after you submit it. 
+
